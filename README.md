@@ -7,22 +7,22 @@
 
 ## Recent Projects
 
+### [Python Portfolio | May 2021 - present](https://strassy-does-python.vercel.app/)
+- github.com/sarastrasner/python-portfolio
+- portfolio of daily Python projects
+- Technologies Used: React Bootstrap, Next.js, Tailwind CSS
+
 ### [K-Pop Band Mixer frontend | April 2021](https://k-pop-band-generator.pages.dev/)
-- [Source Code](https://github.com/sarastrasner/k-pop-band-generator)
+- github.com/sarastrasner/k-pop-band-generator
 - full-stack web application and API for mixing and matching K-Pop band members
 - Technologies Used: GraphQL, mongoDB, mongoose, Netlify, Heroku, React Redux, Lodash, Sass
  
  ### [K-Pop Band Mixer backend | April 2021](https://k-pop-api-v2.herokuapp.com/graphql)
- - [Source Code](https://github.com/sarastrasner/graphql-API) 
+ - github.com/sarastrasner/graphql-API
  - full-stack web application and API for mixing and matching K-Pop band members
  - Technologies Used: GraphQL, mongoDB, mongoose, Netlify, Heroku, React Redux, Lodash, Sass
 
-### [Python Portfolio | May 2021 - present](https://strassy-does-python.vercel.app/)
-- [Source Code](https://github.com/sarastrasner/python-portfolio)
-- portfolio of daily Python projects
-- Technologies Used: React Bootstrap, Next.js, Tailwind CSS
-
 ### [Travel Blog | March 2021](https://strassy-travels.vercel.app/)
-- [Source Code](https://github.com/sarastrasner/nextjs-blog)
+- github.com/sarastrasner/nextjs-blog
 - travel blog with dark mode, dynamic routes and URLs
 - Technologies Used: React Bootstrap, Next.js, Tailwind CSS
