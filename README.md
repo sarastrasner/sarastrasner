@@ -26,3 +26,19 @@
 - github.com/sarastrasner/nextjs-blog
 - travel blog with dark mode, dynamic routes and URLs
 - Technologies Used: React Bootstrap, Next.js, Tailwind CSS
+
+## Recent Professional Group Projects
+### [Rescuties | February 2021](rescuties-401d39.web.app)
+- github.com/the-cats-pajamas/rescuties
+- Responsive app that renders information on adoptable pets from PetFinder API
+- Technologies Used: PetFinder API, Firebase (database and auth), React, Redux, MaterialUI Template, Sass
+
+### [Code Followers | January 2021](github.com/sarastrasner/code-followers)
+- github.com/the-cats-pajamas/rescuties
+- Command line text adventure game that prompts users to make a series of decisions based on two given options
+- Technologies Used: MongoDB, Prompts, NodeJS, Heroku, Binary Tree Traversal
+	
+### [Seasonal Movie Recommender | September 2020](holiday-movie-recommender.herokuapp.com)
+- Seasonal movie recommender with a full-CRUD movie database
+- Technologies Used: Heroku, jQuery, PostgreSQL, The Movie DB, CSS
+
