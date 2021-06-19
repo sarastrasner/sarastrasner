@@ -5,7 +5,7 @@
 - 📁 Portfolio: sarastrasner.com
 - 📫 Email: holler@sarastrasner.com
 
-## Recent Projects
+## Recent Personal Projects
 
 ### [Python Portfolio | May 2021 - present](https://strassy-does-python.vercel.app/)
 - github.com/sarastrasner/python-portfolio
