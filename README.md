@@ -12,6 +12,11 @@
 - portfolio of daily Python projects
 - Technologies Used: React Bootstrap, Next.js, Tailwind CSS
 
+### [Daily Code Challenges | June 2021 - present](https://github.com/sarastrasner/daily-code-challenges)
+https://github.com/sarastrasner/daily-code-challenges
+- portfolio of daily code challenges written in Python and JavaScript
+- Technologies Used: JavaScript, Python, Pytest, Jest
+
 ### [K-Pop Band Mixer frontend | April 2021](https://k-pop-band-generator.pages.dev/)
 - github.com/sarastrasner/k-pop-band-generator
 - full-stack web application and API for mixing and matching K-Pop band members
