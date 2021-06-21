@@ -13,7 +13,7 @@
 - Technologies Used: React Bootstrap, Next.js, Tailwind CSS
 
 ### [Daily Code Challenges | June 2021 - present](https://github.com/sarastrasner/daily-code-challenges)
-https://github.com/sarastrasner/daily-code-challenges
+- https://github.com/sarastrasner/daily-code-challenges
 - portfolio of daily code challenges written in Python and JavaScript
 - Technologies Used: JavaScript, Python, Pytest, Jest
 
